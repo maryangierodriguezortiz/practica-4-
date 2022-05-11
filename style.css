@@ -1,0 +1,18 @@
+body {
+    background:white;
+}
+p {color:blueviolet;
+    font-family: verdana;
+    text-align: center;
+ 
+}
+.alineacion-derecha {
+    font-size: 20px;
+    text-align: right;
+}
+.fondo-sienna{
+    background: sienna;
+}
+.rojo {
+    color: red;
+}
